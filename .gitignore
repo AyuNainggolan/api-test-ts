@@ -1,0 +1,9 @@
+/node_modules/
+/test-results/
+/assets/
+/features/
+cucumber-report.html
+index.html
+.env
+.vscode
+package-lock.json
